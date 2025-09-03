@@ -4,7 +4,7 @@
 
 // cara deklarasi variabel ---> let, var, const
 // contoh variabel dalam kode ---> let data = valueData // (let) sebagai deklarasi, (data) sebagai nama variabelnya, dan (valueData) sebagai value dari variabelnya
-//cara menggunakan variabel sama seperti kita menggunakan aljabar dalam matematika
+// cara menggunakan variabel sama seperti kita menggunakan aljabar dalam matematika
 
 // identifiers ---> nama-nama unik yang mengidentifikasikan semua variabel javascript
 // aturan umum membuat identifiers  ---> nama dapat berisi huruf, angka, tanda, dll.
